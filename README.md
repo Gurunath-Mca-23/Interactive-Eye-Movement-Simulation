@@ -3,8 +3,10 @@ Description: This HTML document creates a simple interactive face with moving ey
 
 # How to Run Project
 step 1: Save the HTML file with html extension.
+
 step 2: Click the "Go Live" button. A new browser window will open displaying EyeBall moving.
 
 # Future Enhancement:
 step 1: Add facial expressions or animations to make the interactive face more engaging.
+
 step 2: implement user interaction, such as clicking on the eyes to trigger actions or reactions
